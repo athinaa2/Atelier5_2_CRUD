@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+fieldset { width: 380px; margin-bottom: 20px; }
+label { display: inline-block; width: 150px; }
+input { margin: 3px 0; }
+table { border-collapse: collapse; background: #3498db; color: white; }
+th { background: orange; padding: 6px 12px; }
+td { padding: 6px 12px; border: 1px solid white; }
+a { color: white; }
